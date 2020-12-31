@@ -1,0 +1,5 @@
+Hello , My name is Subhasish . I am currently learning python language. And as a begginer this project is like a shootng star. I think you also feel that urge to make a project like alexa.
+
+#This is not my own project.I have watched "CodeWithHarry" in youtube and start to run the project but I have failed to recognise the user voice.
+
+#If anyone can fix the problem I will be so glad. I am sending the source code.Please Help me out.
